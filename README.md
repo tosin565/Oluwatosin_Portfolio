@@ -3,3 +3,15 @@
 This project aims to provide insight into the sales performance of a bakery company for a year. By analyzing various aspect of the sales data, I identify trends, pattern, KPI requirement and gain deeper understanding of the bakery performance.
 ## Data set used
 - <a href "https://github.com/tosin565/Oluwatosin_Portfolio/blob/main/Sardine%20_Bread_sales.xlsx">Dataset</a>
+## KPI
+- Total Sales/Revenue
+- Average Sales/Revenue
+-Total Bread Sold
+-Total Orders
+-Daily Sales Trend
+-Daily Trend for Order_Id
+-Monthly Sales Trend
+-Quarterly Sales Trend
+-Sales Percent by Category and Size
+-Top 5 Sellers by Sales, Quantity and Total Order
+-Bottom 5 Sellers by Sales, Quantity and Total Order
