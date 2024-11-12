@@ -6,15 +6,15 @@ This project aims to provide insight into the sales performance of a bakery comp
 ## KPI
 - Total Sales/Revenue
 - Average Sales/Revenue
--Total Bread Sold
--Total Orders
--Daily Sales Trend
--Daily Trend for Order_Id
--Monthly Sales Trend
--Quarterly Sales Trend
--Sales Percent by Category and Size
--Top 5 Sellers by Sales, Quantity and Total Order
--Bottom 5 Sellers by Sales, Quantity and Total Order
+- Total Bread Sold
+- Total Orders
+- Daily Sales Trend
+- Daily Trend for Order_Id
+- Monthly Sales Trend
+- Quarterly Sales Trend
+- Sales Percent by Category and Size
+- Top 5 Sellers by Sales, Quantity and Total Order
+- Bottom 5 Sellers by Sales, Quantity and Total Order
 
 ## SQL Quey
 - <a href"https://github.com/tosin565/Oluwatosin_Portfolio/blob/main/Sardine%20Bread.sql">Sql Query</a>
