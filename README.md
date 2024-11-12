@@ -23,4 +23,5 @@ This project aims to provide insight into the sales performance of a bakery comp
 - <a href"https://github.com/tosin565/Oluwatosin_Portfolio/blob/main/Sardine%20Bread%20project.pbix">View Report</a>
 
 ## Screenshot
-
+- <a href"https://github.com/tosin565/Oluwatosin_Portfolio/blob/main/2.PNG">Screenshot</a>
+- <a href"https://github.com/tosin565/Oluwatosin_Portfolio/blob/main/1.PNG">Screenshot</a>
