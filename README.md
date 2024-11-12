@@ -17,10 +17,10 @@ This project aims to provide insight into the sales performance of a bakery comp
 - Bottom 5 Sellers by Sales, Quantity and Total Order
 
 ## SQL Quey
-- <a href"https://github.com/tosin565/Oluwatosin_Portfolio/blob/main/Sardine%20Bread.sql">Sql Query</a>
+<a href"https://github.com/tosin565/Oluwatosin_Portfolio/blob/main/Sardine%20Bread.sql">Sql Query</a>
 
 ## Power Bi Report
-- <a href"https://github.com/tosin565/Oluwatosin_Portfolio/blob/main/Sardine%20Bread%20project.pbix">View Report</a>
+<a href"https://github.com/tosin565/Oluwatosin_Portfolio/blob/main/Sardine%20Bread%20project.pbix">View Report</a>
 
 ## Screenshot
 - <a href"https://github.com/tosin565/Oluwatosin_Portfolio/blob/main/2.PNG">Screenshot</a>
